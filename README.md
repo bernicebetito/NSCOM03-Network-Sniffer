@@ -25,3 +25,6 @@ Download the project through the following commands:
 Once downloaded, the project can be used through the following commands:
 * Linux: ` sudo python3 network_sniffer.py `
 * Windows: ` python network_sniffer.py `
+
+## Guide
+Upon running the project, sniffing of packets will automatically start. To stop sniffing for packets, enter `CTRL + C`. Once packet sniffing is stopped, Total Number of Packets, Time, IP Address Mapping, Protocol Statistics, and Top 5 Conversations would be shown in the console and in the txt file created.
